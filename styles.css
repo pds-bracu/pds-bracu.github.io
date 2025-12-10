@@ -2874,3 +2874,10 @@ footer p {
     margin-bottom: 3rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
 }
+
+.badge-icon {
+    width: 2.5em;
+    height: 1em;
+    vertical-align: top;
+    margin-right: -0.2rem;
+}
